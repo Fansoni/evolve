@@ -1,0 +1,41 @@
+/* FORM */
+
+form {
+    background: #DDD;
+}
+
+
+/* GERAL */
+
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.mg10 {
+    margin: 10px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.pd10 {
+    padding: 10px;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
